@@ -16,6 +16,14 @@ require('dotenv').config(); // loads the values in .env into process.env
 
 // TODO 1: Read API_BASE_URL, API_KEY, and WORKSHOP_ID from process.env.
 
+function getWorkshopTitle(id) {
+    Get = href="http://localhost:5050"
+    return (header) 
+    check status
+    parse .package-lock.JSON
+}
+
+Return getWorkshopTitle(2-b)
 
 // TODO 2: Write a reusable async function getWorkshopTitle(id) that:
 //   - sends a GET request to  <API_BASE_URL>/api/v1/workshops/<id>
